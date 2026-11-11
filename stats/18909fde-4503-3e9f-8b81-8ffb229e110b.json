@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:diamond_block": 10,
+      "minecraft:grass_block": 19,
+      "minecraft:barrier": 1,
+      "minecraft:purple_stained_glass": 1,
+      "minecraft:command_block": 3,
+      "minecraft:beacon": 1,
+      "minecraft:bedrock": 137
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 19652,
+      "minecraft:time_since_rest": 9930,
+      "minecraft:walk_one_cm": 14595,
+      "minecraft:total_world_time": 9940,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 38796,
+      "minecraft:crouch_one_cm": 3169,
+      "minecraft:sneak_time": 944,
+      "minecraft:play_time": 9930,
+      "minecraft:interact_with_beacon": 1,
+      "minecraft:jump": 102,
+      "minecraft:time_since_death": 9930
+    }
+  },
+  "DataVersion": 4671
+}
